@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Globe Numbers"
   spec.description   = "Check if globe numbers"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://jaysonlarin@bitbucket.org/jaysonlarin/globe_numbers.git"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
